@@ -11,7 +11,8 @@ const vaccinations = [
     {
       name: 'OPV',
       image: require('../../assets/image1.png'),
-      info: 'Oral Polio Vaccine, given at birth and in subsequent doses, prevents polio.',
+     
+      info: 'Oral Polio Vaccine, given at birth and in subsequent doses, prevents polio n subsequent dosesn subsequent dosesn subsequent doses.',
     },
     {
       name: 'Hepatitis-B',

@@ -11,7 +11,7 @@ const Section2 = ({ navigation }) => {
 
   const handleDivision2Press = () => {
     // Navigate to Section 3 when Division 2 is clicked
-    navigation.navigate('Section6');
+    navigation.navigate('Welcome');
   };
 
   return (
